@@ -23,7 +23,7 @@ export default class ConverterCsv {
     }
 }
 ```
-````
+```js
 downloadCsv() {
       let rows = [];
       const tr = document.getElementsByClassName("tr-csv");
